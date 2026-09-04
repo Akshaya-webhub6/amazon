@@ -95,6 +95,16 @@
     margin-top: auto;
     font-size: 16px;
 } 
+     .bbutton {
+    width: 95%;
+    height: 40px;
+    background-color: #ff9900;
+    border: none;
+    border-radius: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    }
+
     .delivery{
         padding-left: 30px;
 
